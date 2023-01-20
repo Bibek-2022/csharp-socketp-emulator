@@ -1,0 +1,12 @@
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\bin\Release\netcoreapp2.1\ATSEmulator.deps.json
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\bin\Release\netcoreapp2.1\ATSEmulator.runtimeconfig.json
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\bin\Release\netcoreapp2.1\ATSEmulator.runtimeconfig.dev.json
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\bin\Release\netcoreapp2.1\ATSEmulator.dll
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\bin\Release\netcoreapp2.1\ATSEmulator.pdb
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\obj\Release\netcoreapp2.1\ATSEmulator.csprojAssemblyReference.cache
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\obj\Release\netcoreapp2.1\ATSEmulator.csproj.CoreCompileInputs.cache
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\obj\Release\netcoreapp2.1\ATSEmulator.AssemblyInfoInputs.cache
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\obj\Release\netcoreapp2.1\ATSEmulator.AssemblyInfo.cs
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\obj\Release\netcoreapp2.1\ATSEmulator.dll
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\obj\Release\netcoreapp2.1\ATSEmulator.pdb
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\bin\Release\netcoreapp2.1\ATSEmulator.dll.config

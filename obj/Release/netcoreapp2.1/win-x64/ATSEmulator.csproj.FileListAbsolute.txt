@@ -1,0 +1,15 @@
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\bin\Release\netcoreapp2.1\win-x64\ATSEmulator.deps.json
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\bin\Release\netcoreapp2.1\win-x64\ATSEmulator.runtimeconfig.json
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\bin\Release\netcoreapp2.1\win-x64\ATSEmulator.runtimeconfig.dev.json
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\bin\Release\netcoreapp2.1\win-x64\ATSEmulator.dll
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\bin\Release\netcoreapp2.1\win-x64\ATSEmulator.pdb
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\obj\Release\netcoreapp2.1\win-x64\ATSEmulator.csprojAssemblyReference.cache
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\obj\Release\netcoreapp2.1\win-x64\ATSEmulator.csproj.CoreCompileInputs.cache
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\obj\Release\netcoreapp2.1\win-x64\ATSEmulator.AssemblyInfoInputs.cache
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\obj\Release\netcoreapp2.1\win-x64\ATSEmulator.AssemblyInfo.cs
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\obj\Release\netcoreapp2.1\win-x64\ATSEmulator.dll
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\obj\Release\netcoreapp2.1\win-x64\ATSEmulator.pdb
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\bin\Release\netcoreapp2.1\win-x64\ATSEmulator.exe
+C:\Users\shresb\Documents\Visual Studio 2017\Projects\ATSEmulator\ATSEmulator\bin\Release\netcoreapp2.1\win-x64\ATSEmulator.dll.config
